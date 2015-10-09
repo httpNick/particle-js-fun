@@ -1,0 +1,27 @@
+{
+  "name": "particle-js-fun",
+  "version": "0.0.0",
+  "homepage": "https://github.com/httpNick/particle-js-fun",
+  "authors": [
+    "Nick Duncan <nick.b.duncan@gmail.com>"
+  ],
+  "description": "Particle JS fun.",
+  "main": "app.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "particle"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "particles.js": "~2.0.0"
+  }
+}
